@@ -11,6 +11,10 @@ __pycache__/
 
 .vscode/
 
+<<<<<<< HEAD
 venv/
+=======
+venv
+>>>>>>> e6bd1a08fbd8af7c85cb6f7878e72147ee3172fd
 
 for_test.py
