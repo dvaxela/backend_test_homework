@@ -7,14 +7,8 @@ build/side.txt
 # игнорировать все файлы с расширением .doc
 *.doc
 
-__pycache__/
+__pycache__
 
-.vscode/
-
-<<<<<<< HEAD
-venv/
-=======
-venv
->>>>>>> e6bd1a08fbd8af7c85cb6f7878e72147ee3172fd
+.vscode
 
 for_test.py
